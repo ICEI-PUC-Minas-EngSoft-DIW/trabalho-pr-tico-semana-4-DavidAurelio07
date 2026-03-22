@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: David Aurélio Pedrosa
+- Matricula: 910749
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Site em que a pessoa pode pesquisar  sobre alguns circuitos de corrida  bem famosos  e  a partir disso conhecer mais um pouco sobre  ela além de  saber sobre algumas curiosidades em cada uma.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](/wireframe.jpeg)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Projeto Site](/site-projeto.png)
