@@ -4,17 +4,8 @@
     padding: 0;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-}
-
-*{
-    text-decoration: none;
-    margin:0;
-    padding: 0;
+body{
+    background-color: rgba(53, 53, 54, 0.219);
 }
 
 header{
@@ -22,31 +13,50 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    background-color: black;
 }
+
 
 
 nav a{
-    margin: 0 30px;
+    margin: 0 40px;
     display: inline-block;
-    
+    color: white ;
+    border-radius: 20px;
+    flex: 0 0 auto;
+}
+
+nav a:hover{
+    background-color: white;
+    color:black;
+    transform: scale(1.1);
+    padding: 10px;
 }
 
 .search{
     padding: 0 20px 20px;
 }
 
+.search input{
+    padding: 10px;
+    width:200px;
+    border-radius: 20px;
+    border: none ;
+}
 .banner{
-    border: 2px solid;
     display: flex;
     margin: auto;
     width: 1250px;
     height:300px;
 }
 
-.banner h2{
+.banner img{
     display: flex;
     margin: auto;
     align-items: center;
+    width: 1200px;
+    height:300px;
+    border-radius: 20px;
 }
 
 .container{
@@ -62,17 +72,27 @@ nav a{
     display: flex;
     align-items: center;
     text-align: justify;
+    font-size:  20px;
 }
 
 
 .info{
     margin: auto;
+    width: 500px;
+    height: 300px
 }
 
-.img{
-    border: 2px solid;
+.info h2 {
+    text-align: center;
+}
+.info img{
     width: 400px;
     height: 250px
+}
+
+.info iframe{
+    width:450px;
+    height: 300px;
 }
 
 footer {
